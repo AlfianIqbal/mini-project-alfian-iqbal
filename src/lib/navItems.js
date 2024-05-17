@@ -5,7 +5,7 @@ export const navItems = [
 	},
 	{
 		href: "/careers",
-		name: "Careers",
+		name: "OpenAI",
 	},
 	{
 		href: "/contact",
